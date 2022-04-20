@@ -3,16 +3,9 @@
     { "uid": 1, "parendId": 0, "name": "Sri Lanka" },
     { "uid": 2, "parentId": 1, "name": "WESTERN" },
     { "uid": 3, "parentId": 1, "name": "SABARAGAMUWA" },
-   
     { "uid": 4, "parentId": 2, "name": "Kurunegala" },
     { "uid": 5, "parentId": 2, "name": "Colombo" },
-    
     { "uid": 6, "parentId": 3, "name": "Rathanapura" }
-    
-    
-    
-    
-     
     ],
      
      "Category" :[
