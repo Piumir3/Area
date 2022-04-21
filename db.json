@@ -30,17 +30,10 @@
     { "uid": 4, "parentId": 1, "name": "BUDDIKA DISTRIBUTORS" },
     { "uid": 5, "parentId": 1, "name": "DINESH DISTRIBUTORS(PVT)LTD" },
     { "uid": 6, "parentId": 2, "name": "ACHIRA  ENTERPRISES" },
-    { "uid": 7, "parentId": 2, "name": "SAMSAN GROCERY" },
-    { "uid": 8, "parentId": 2, "name": "SAJITHA STORES" },
-    { "uid": 9, "parentId": 3, "name": "J.N.P DAILY" },
-    { "uid": 10, "parentId": 3, "name": "PRARTHANA STORES" },
-    { "uid": 11, "parentId": 3, "name": "RAJ GROCERY" },
-    { "uid": 12, "parentId": 4, "name": "WEERASEKARA OSU" },
-    { "uid": 13, "parentId": 4, "name": "RASAKADE" },
-    { "uid": 14, "parentId": 4, "name": "INDIKA STORES" },
-    { "uid": 15, "parentId": 5, "name": "MULTY SHOP" },
-    { "uid": 16, "parentId": 5, "name": "DEEPTHI COMMUNICATIONE" },
-    { "uid": 17, "parentId": 5, "name": "HANSADEEPA STOERS" }
+    { "uid": 7, "parentId": 2, "name": "SOMALATHA RAJAPAKSHA" },
+    { "uid": 8, "parentId": 2, "name": "DEHIWELA PHARMACY" },
+    { "uid": 9, "parentId": 2, "name": "AXIENTA LANKA (PVT) LTD" }
+ 
  
  
     ]
