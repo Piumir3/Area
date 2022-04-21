@@ -10,18 +10,15 @@
      
      "Category" :[
      { "uid": 1, "parendId": 0, "name": "ICL" },
-    { "uid": 2, "parentId": 1, "name": "AVENGER" },
+    { "uid": 2, "parentId": 1, "name": "SACHET" },
     { "uid": 3, "parentId": 1, "name": "PLASTIC" },
-    { "uid": 4, "parentId": 1, "name": "FACIAL TISSUES" },
-    { "uid": 5, "parentId": 2, "name": "BLACK KNIGHT" },
-    { "uid": 6, "parentId": 2, "name": "FREE & EASY" },
+    { "uid": 4, "parentId": 1, "name": "BOTTLES" },
+    { "uid": 5, "parentId": 2, "name": "SIGNATURE" },
+    { "uid": 6, "parentId": 2, "name": "NERRALU" },
     { "uid": 7, "parentId": 2, "name": "NIVARAN" },
-    { "uid": 8, "parentId": 3, "name": "CANS" },
-    { "uid": 9, "parentId": 3, "name": "TUBES" },
-    { "uid": 10, "parentId": 3, "name": "BOTTLES" },
-    { "uid": 11, "parentId": 4, "name": "FACIAL TISSUES" },
-    { "uid": 12, "parentId": 4, "name": "WINGS" },
-    { "uid": 13, "parentId": 4, "name": "SPLASH-ON" }
+    { "uid": 8, "parentId": 3, "name": "REBECALEE" },
+    { "uid": 9, "parentId": 3, "name": "BLACK KNIGHT" }
+ 
     ],
        "Distributor" :[
     { "uid": 1, "parendId": 0, "name": "ALL" },
